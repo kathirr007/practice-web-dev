@@ -1,2 +1,2 @@
 # practice-web-dev
-Practice code referecne for web development
+Practice templates, utilities, reuseable logics for web development
